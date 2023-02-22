@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/woojin/dynamixel/dynamixel_interface/build
 include dynamixel_interface/CMakeFiles/_dynamixel_interface_generate_messages_check_deps_ServoDiags.dir/progress.make
 
 dynamixel_interface/CMakeFiles/_dynamixel_interface_generate_messages_check_deps_ServoDiags:
-	cd /home/woojin/dynamixel/dynamixel_interface/build/dynamixel_interface && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py dynamixel_interface /home/woojin/dynamixel/dynamixel_interface/src/dynamixel_interface/msg/ServoDiags.msg std_msgs/Header:dynamixel_interface/ServoDiag
+	cd /home/woojin/dynamixel/dynamixel_interface/build/dynamixel_interface && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py dynamixel_interface /home/woojin/dynamixel/dynamixel_interface/src/dynamixel_interface/msg/ServoDiags.msg dynamixel_interface/ServoDiag:std_msgs/Header
 
 _dynamixel_interface_generate_messages_check_deps_ServoDiags: dynamixel_interface/CMakeFiles/_dynamixel_interface_generate_messages_check_deps_ServoDiags
 _dynamixel_interface_generate_messages_check_deps_ServoDiags: dynamixel_interface/CMakeFiles/_dynamixel_interface_generate_messages_check_deps_ServoDiags.dir/build.make

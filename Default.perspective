@@ -1,0 +1,339 @@
+{
+  "keys": {},
+  "groups": {
+    "mainwindow": {
+      "keys": {
+        "geometry": {
+          "repr(QByteArray.hex)": "QtCore.QByteArray(b'01d9d0cb000300000000004800000206000003c1000003c9000000480000022b000003c1000003c900000000000000000780000000480000022b000003c1000003c9')",
+          "type": "repr(QByteArray.hex)",
+          "pretty-print": "     H       H +          H +    "
+        },
+        "state": {
+          "repr(QByteArray.hex)": "QtCore.QByteArray(b'000000ff00000000fd00000001000000030000037a00000173fc0100000008fb0000004c007200710074005f0074006f007000690063005f005f0054006f0070006900630050006c007500670069006e005f005f0031005f005f0054006f0070006900630057006900640067006500740100000000000002b20000000000000000fb00000026007200710074005f007200760069007a005f005f005200560069007a005f005f0031005f005f0100000000000005620000000000000000fb0000004c007200710074005f0074006f007000690063005f005f0054006f0070006900630050006c007500670069006e005f005f0032005f005f0054006f0070006900630057006900640067006500740100000000000007380000000000000000fb0000004c007200710074005f0074006f007000690063005f005f0054006f0070006900630050006c007500670069006e005f005f0033005f005f0054006f00700069006300570069006400670065007401000003a0000003980000000000000000fb00000072007200710074005f0073006500720076006900630065005f00630061006c006c00650072005f005f005300650072007600690063006500430061006c006c00650072005f005f0031005f005f005300650072007600690063006500430061006c006c006500720057006900640067006500740100000000000002570000000000000000fc000000000000023d0000000000fffffffc0200000002fb00000058007200710074005f007000750062006c00690073006800650072005f005f005000750062006c00690073006800650072005f005f0031005f005f005000750062006c006900730068006500720057006900640067006500740100000016000001730000000000000000fb00000044007200710074005f00670072006100700068005f005f0052006f007300470072006100700068005f005f0031005f005f0052006f007300470072006100700068005500690100000016000002c40000000000000000fb00000058007200710074005f007000750062006c00690073006800650072005f005f005000750062006c00690073006800650072005f005f0032005f005f005000750062006c0069007300680065007200570069006400670065007401000000000000037a0000023d00fffffffb0000004c007200710074005f00740066005f0074007200650065005f005f0052006f0073005400660054007200650065005f005f0031005f005f0052006f00730054006600540072006500650055006901000002430000018900000000000000000000037a0000000000000004000000040000000800000008fc00000001000000030000000100000036004d0069006e0069006d0069007a006500640044006f0063006b00570069006400670065007400730054006f006f006c0062006100720000000000ffffffff0000000000000000')",
+          "type": "repr(QByteArray.hex)",
+          "pretty-print": "                 Lrqt_topic__TopicPlugin__1__TopicWidget          &rqt_rviz__RViz__1__          Lrqt_topic__TopicPlugin__2__TopicWidget          Lrqt_topic__TopicPlugin__3__TopicWidget          rrqt_service_caller__ServiceCaller__1__ServiceCallerWidget            =                                                         s                                                                                                   z =                                            C       z                                                      "
+        }
+      },
+      "groups": {
+        "toolbar_areas": {
+          "keys": {
+            "MinimizedDockWidgetsToolbar": {
+              "repr": "8",
+              "type": "repr"
+            }
+          },
+          "groups": {}
+        }
+      }
+    },
+    "pluginmanager": {
+      "keys": {
+        "running-plugins": {
+          "repr": "{'rqt_publisher/Publisher': [2]}",
+          "type": "repr"
+        }
+      },
+      "groups": {
+        "plugin__rqt_graph__RosGraph__1": {
+          "keys": {},
+          "groups": {
+            "dock_widget__RosGraphUi": {
+              "keys": {
+                "dock_widget_title": {
+                  "repr": "'Node Graph'",
+                  "type": "repr"
+                },
+                "dockable": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "parent": {
+                  "repr": "None",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            },
+            "plugin": {
+              "keys": {
+                "actionlib_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "auto_fit_graph_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "dead_sinks_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "filter_line_edit_text": {
+                  "repr": "'/'",
+                  "type": "repr"
+                },
+                "graph_type_combo_box_index": {
+                  "repr": "'0'",
+                  "type": "repr"
+                },
+                "group_image_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "group_tf_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "hide_dynamic_reconfigure_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "hide_tf_nodes_check_box_state": {
+                  "repr": "'false'",
+                  "type": "repr"
+                },
+                "highlight_connections_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "leaf_topics_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "namespace_cluster_spin_box_value": {
+                  "repr": "'2'",
+                  "type": "repr"
+                },
+                "quiet_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "topic_filter_line_edit_text": {
+                  "repr": "'/'",
+                  "type": "repr"
+                },
+                "unreachable_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_publisher__Publisher__1": {
+          "keys": {},
+          "groups": {
+            "dock_widget__PublisherWidget": {
+              "keys": {
+                "dock_widget_title": {
+                  "repr": "'Message Publisher'",
+                  "type": "repr"
+                },
+                "dockable": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "parent": {
+                  "repr": "None",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            },
+            "plugin": {
+              "keys": {
+                "publishers": {
+                  "repr": "'[{\\'topic_name\\': \\'/current_command\\', \\'type_name\\': \\'std_msgs/Float64\\', \\'rate\\': 5000.0, \\'enabled\\': False, \\'publisher_id\\': 0, \\'counter\\': 0, \\'expressions\\': {\\'/current_command/data\\': \\'0\\'}}, {\\'topic_name\\': \\'/desired_joint_states\\', \\'type_name\\': \\'sensor_msgs/JointState\\', \\'rate\\': 1.0, \\'enabled\\': False, \\'publisher_id\\': 1, \\'counter\\': 0, \\'expressions\\': {\\'/desired_joint_states/name\\': \"[\\'joint_1\\']\", \\'/desired_joint_states/effort\\': \\'[1000]\\', \\'/desired_joint_states/position\\': \\'[100]\\'}}]'",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_publisher__Publisher__2": {
+          "keys": {},
+          "groups": {
+            "dock_widget__PublisherWidget": {
+              "keys": {
+                "dock_widget_title": {
+                  "repr": "'Message Publisher (2)'",
+                  "type": "repr"
+                },
+                "dockable": {
+                  "repr": "True",
+                  "type": "repr"
+                },
+                "parent": {
+                  "repr": "None",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            },
+            "plugin": {
+              "keys": {
+                "publishers": {
+                  "repr": "'[{\\'topic_name\\': \\'/desired_joint_states\\', \\'type_name\\': \\'sensor_msgs/JointState\\', \\'rate\\': 500.0, \\'enabled\\': False, \\'publisher_id\\': 0, \\'counter\\': 0, \\'expressions\\': {\\'/desired_joint_states/name\\': \"[\\'joint_1\\', \\'joint2\\',\\'joint_3\\', \\'joint4\\',\\'joint_5\\', \\'joint6\\',\\'joint_7\\', \\'joint8\\',\\'joint_9\\', \\'joint10\\',\\'joint_11\\', \\'joint12\\']\", \\'/desired_joint_states/effort\\': \\'[ 0.025, 0.025, 0.025, 0.025, 0.025, 0.025, 0.025, 0.025 , 0.025, 0.025, 0.025, 0.025 ]\\'}}, {\\'topic_name\\': \\'/joint_states\\', \\'type_name\\': \\'sensor_msgs/JointState\\', \\'rate\\': 60.0, \\'enabled\\': False, \\'publisher_id\\': 1, \\'counter\\': 0, \\'expressions\\': {}}, {\\'topic_name\\': \\'/desired_joint_states\\', \\'type_name\\': \\'sensor_msgs/JointState\\', \\'rate\\': 1.0, \\'enabled\\': False, \\'publisher_id\\': 2, \\'counter\\': 0, \\'expressions\\': {\\'/desired_joint_states/name\\': \"[\\'joint_1\\', \\'joint2\\',\\'joint_3\\', \\'joint4\\',\\'joint_5\\', \\'joint6\\',\\'joint_7\\', \\'joint8\\',\\'joint_9\\', \\'joint10\\',\\'joint_11\\', \\'joint12\\']\", \\'/desired_joint_states/effort\\': \\'[ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 , 0.0, 0.0, 0.0, 0.0 ]\\'}}, {\\'topic_name\\': \\'/desired_joint_states\\', \\'type_name\\': \\'sensor_msgs/JointState\\', \\'rate\\': 400.0, \\'enabled\\': False, \\'publisher_id\\': 3, \\'counter\\': 38414, \\'expressions\\': {\\'/desired_joint_states/effort\\': \\'[ 0.025, 0.025, 0.025, 0.025, 0.025, 0.025 ]\\', \\'/desired_joint_states/name\\': \"[\\'joint_1\\', \\'joint2\\',\\'joint_3\\', \\'joint10\\',\\'joint_11\\', \\'joint12\\'] \"}}, {\\'topic_name\\': \\'/desired_joint_states\\', \\'type_name\\': \\'sensor_msgs/JointState\\', \\'rate\\': 400.0, \\'enabled\\': False, \\'publisher_id\\': 4, \\'counter\\': 51181, \\'expressions\\': {\\'/desired_joint_states/effort\\': \\'[ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]\\', \\'/desired_joint_states/name\\': \"[\\'joint_1\\', \\'joint2\\',\\'joint_3\\', \\'joint10\\',\\'joint_11\\', \\'joint12\\']\"}}]'",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_rviz__RViz__1": {
+          "keys": {},
+          "groups": {
+            "dock_widget__": {
+              "keys": {
+                "dock_widget_title": {
+                  "repr": "'default.rviz[*] - RViz'",
+                  "type": "repr"
+                },
+                "dockable": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "parent": {
+                  "repr": "None",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            },
+            "plugin": {
+              "keys": {
+                "hide_menu": {
+                  "repr": "'false'",
+                  "type": "repr"
+                },
+                "rviz_config_file": {
+                  "repr": "'/opt/ros/noetic/share/rviz/default.rviz'",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_service_caller__ServiceCaller__1": {
+          "keys": {},
+          "groups": {
+            "dock_widget__ServiceCallerWidget": {
+              "keys": {
+                "dock_widget_title": {
+                  "repr": "'Service Caller'",
+                  "type": "repr"
+                },
+                "dockable": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "parent": {
+                  "repr": "None",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            },
+            "plugin": {
+              "keys": {
+                "current_service_name": {
+                  "repr": "'/sync_get_position'",
+                  "type": "repr"
+                },
+                "splitter_orientation": {
+                  "repr": "'2'",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_tf_tree__RosTfTree__1": {
+          "keys": {},
+          "groups": {
+            "plugin": {
+              "keys": {
+                "auto_fit_graph_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "highlight_connections_check_box_state": {
+                  "repr": "'true'",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_topic__TopicPlugin__1": {
+          "keys": {},
+          "groups": {
+            "dock_widget__TopicWidget": {
+              "keys": {
+                "dock_widget_title": {
+                  "repr": "'Topic Monitor'",
+                  "type": "repr"
+                },
+                "dockable": {
+                  "repr": "'true'",
+                  "type": "repr"
+                },
+                "parent": {
+                  "repr": "None",
+                  "type": "repr"
+                }
+              },
+              "groups": {}
+            },
+            "plugin": {
+              "keys": {
+                "tree_widget_header_state": {
+                  "repr(QByteArray.hex)": "QtCore.QByteArray(b'000000ff0000000000000001000000000000000001000000000000000000000000000000000000030e000000050101000100000000000000000500000064ffffffff000000810000000300000005000001600000000100000003000000a90000000100000003000000680000000100000003000000390000000100000003000000640000000100000003000003e80000000064')",
+                  "type": "repr(QByteArray.hex)",
+                  "pretty-print": "                              d         `           h     9     d        "
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_topic__TopicPlugin__2": {
+          "keys": {},
+          "groups": {
+            "plugin": {
+              "keys": {
+                "tree_widget_header_state": {
+                  "repr(QByteArray.hex)": "QtCore.QByteArray(b'000000ff00000000000000010000000000000000010000000000000000000000000000000000000724000000050101000100000000000000000500000064ffffffff000000810000000300000005000001410000000100000003000001520000000100000003000000680000000100000003000000390000000100000003000003f00000000100000003000003e80000000064')",
+                  "type": "repr(QByteArray.hex)",
+                  "pretty-print": "                              d         A     R     h     9              "
+                }
+              },
+              "groups": {}
+            }
+          }
+        },
+        "plugin__rqt_topic__TopicPlugin__3": {
+          "keys": {},
+          "groups": {
+            "plugin": {
+              "keys": {
+                "tree_widget_header_state": {
+                  "repr(QByteArray.hex)": "QtCore.QByteArray(b'000000ff00000000000000010000000000000000010000000000000000000000000000000000000398000000050101000100000000000000000500000064ffffffff000000810000000300000005000001410000000100000003000001520000000100000003000000680000000100000003000000390000000100000003000000640000000100000003000003e80000000064')",
+                  "type": "repr(QByteArray.hex)",
+                  "pretty-print": "                              d         A     R     h     9     d        "
+                }
+              },
+              "groups": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
