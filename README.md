@@ -1,8 +1,11 @@
 # dynamixel_interface
+http://wiki.ros.org/dynamixel_interface    
+https://github.com/csiro-robotics/dynamixel_interface    
+
 
 ##  Terminal command
->Terminal_1 :   roslaunch my_dynamixel_project dynamixel_interface_controller.launch   
-  Terminal_2 :   rostopic echo -w 5 -c /joint_states 
+> Terminal_1 :   roslaunch my_dynamixel_project dynamixel_interface_controller.launch     
+  Terminal_2 :   rostopic echo -w 5 -c /joint_states  
   Terminal_3 :   rqt_topic  
   Terminal_4 :   rqt Plugin-topic-message publisher (joint_statss / desired_~~ )  
 
@@ -18,4 +21,7 @@
 ['joint_1', 'joint2','joint_3', 'joint10','joint_11', 'joint12'']  
 [ 0.025, 0.025, 0.025, 0.025, 0.025, 0.025]  
 [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]  
+
+
+
 
