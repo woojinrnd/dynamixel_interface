@@ -1,0 +1,8 @@
+prefix=/home/woojin/dynamixel/dynamixel_interface/devel
+
+Name: my_dynamixel_project
+Description: Description of my_dynamixel_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

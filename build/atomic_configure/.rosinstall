@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/woojin/dynamixel/dynamixel_interface/devel/setup.sh

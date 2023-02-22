@@ -1,0 +1,8 @@
+prefix=/home/woojin/dynamixel/dynamixel_interface/devel
+
+Name: dynamixel_interface
+Description: Description of dynamixel_interface
+Version: 0.1.0
+Cflags: -I/home/woojin/dynamixel/dynamixel_interface/devel/include -I/home/woojin/dynamixel/dynamixel_interface/src/dynamixel_interface/include
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib xmlrpcpp sensor_msgs std_msgs dynamixel_sdk message_runtime
